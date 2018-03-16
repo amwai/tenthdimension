@@ -1,1 +1,6 @@
-./archive
+./archive/*
+./assets/css/archive/*
+./screenlog.0
+./_site/screenlog.0
+./_site/assets/css/archive/*
+./_site/archive/*
